@@ -56,6 +56,10 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  font-family: Poppins;
+}
+.subtitle {
+  font-family: 'Indie Flower', cursive;
 }
 
 /*

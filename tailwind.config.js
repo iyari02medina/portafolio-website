@@ -13,7 +13,8 @@ module.exports = {
     extend: {
       backgroundImg: {
         // sanFrancisco: "url('../img/sanFrancisco.jpg')", -> ejemplo
-        logo: 'url(../img/logo.png)'
+        logo: 'url(../img/logo.png)',
+        fotoPortada: 'url(../img/foto-portada.png)'
       },
       fontFamily: {
         Montserrat: ["Montserrat", "sans-serif"],
